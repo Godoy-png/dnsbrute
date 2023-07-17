@@ -1,4 +1,4 @@
-# dnsbrute
+# DNS BRUTE
 A simple tool for dns bruteforce.
 
 
